@@ -1,2 +1,0 @@
-# lazybar
-lazybar site
